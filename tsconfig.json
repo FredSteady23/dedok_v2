@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "CommonJS",
+      "outDir": "./dist",
+      "strict": true,
+      "declaration": true,
+      "emitDeclarationOnly": true,
+      "allowImportingTsExtensions": true
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules"]
+}
+  
